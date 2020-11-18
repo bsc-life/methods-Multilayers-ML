@@ -11,7 +11,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 * **GenOtype PHenotype ExplOrer (GOPHER)** - Statistical inference of associations between HPO and GO terms
     * paper: [Josep-Fabregó et al. 2020](https://link.springer.com/chapter/10.1007%2F978-3-030-59851-8_13)
     * presentation: [18.11.2020](https://docs.google.com/presentation/d/1lE_FVOevaqxiKE5vQut1t2mMn7JIEF5Eox3JBpijbqw/edit?usp=sharing)
-    * repository: *private*
+    * repository: [GitLab](https://pm.bsc.es/gitlab/applications/gopher)
     * example: [Running GOPHER on MareNostrum](https://workshape.github.io/visual-graph-algorithms/)
 
 ## External resources
