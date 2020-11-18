@@ -1,8 +1,8 @@
-# SG2. Multilayers/ML & methods
+# SG2. Multilayers/ML & methods list
 
-A curated list of awesome places to learn and practice machine learning and graph-based methods.
+A curated list of awesome places to learn and practice machine learning and graph-based methods presented at the SG2 meetings
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/orgs/bsc-life/teams/sg2-multilayers-ml-methods/discussions/1).
+Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/teams/sg2-multilayers-ml-methods/discussions/1) when preparing your presentation.
 
 ## Methods
 
