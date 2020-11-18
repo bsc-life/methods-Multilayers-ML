@@ -12,7 +12,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
     * paper: [Josep-Fabregó et al. 2020](https://link.springer.com/chapter/10.1007%2F978-3-030-59851-8_13)
     * repository: [GitLab](https://pm.bsc.es/gitlab/applications/gopher)
     * presentation: [18.11.2020](https://docs.google.com/presentation/d/1lE_FVOevaqxiKE5vQut1t2mMn7JIEF5Eox3JBpijbqw/edit?usp=sharing)
-    * example: [Running GOPHER on MareNostrum](https://workshape.github.io/visual-graph-algorithms/)
+    * example: [Running GOPHER on MareNostrum](https://github.com/cirillodavide/gopher_usecase/blob/master/example_run.md)
 
 ## External resources
 
