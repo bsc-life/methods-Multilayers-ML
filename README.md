@@ -30,3 +30,6 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 ### Awesome YT videos
 * [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3Blue1Brown
 * [Graph Theory](https://www.youtube.com/playlist?list=PLt5AfwLFPxWIO0rkWl44MhS_PLLqu3Kvr) - Numberphile
+
+### Online courses
+ * [Machine learning in Python](https://www.coursera.org/learn/python-machine-learning) - Coursera (very complete including regression, clustering and evaluation, predictive models... All in python using scipy and scikit-learn)
