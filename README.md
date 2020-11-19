@@ -14,6 +14,15 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
     * presentation: [18.11.2020](https://docs.google.com/presentation/d/1lE_FVOevaqxiKE5vQut1t2mMn7JIEF5Eox3JBpijbqw/edit?usp=sharing)
     * example: [Running GOPHER on MareNostrum](https://github.com/cirillodavide/gopher_usecase/blob/master/example_run.md)
 
+## Suggestions
+
+*Methods that would be nice to be presented during our meetings*
+
+* Similarity Network Fusion (SNF)
+* Matrix factorization methods (Singular Value decomposition (SVD), Non-Negative Matrix Factorization (NNMF), etc.)
+* [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/)
+* Network comparison through graphlets
+
 ## External resources
 
 ### Deep learning frameworks tutorials
