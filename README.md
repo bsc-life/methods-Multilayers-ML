@@ -18,9 +18,10 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 
 *Methods that would be nice to be presented during our meetings*
 
-* Similarity Network Fusion (SNF)
+* [Similarity Network Fusion (SNF)](http://compbio.cs.toronto.edu/SNF/SNF/Software.html)
+* [Random Walk with Restart (RWR) in multilayer networks](https://academic.oup.com/bioinformatics/article/35/3/497/5055408)
 * Matrix factorization methods (Singular Value decomposition (SVD), Non-Negative Matrix Factorization (NNMF), etc.)
-* [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/)
+* Network inference with [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/)
 * Network comparison through graphlets
 
 ## External resources
