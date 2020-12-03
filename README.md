@@ -23,6 +23,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 * Matrix factorization methods (Singular Value decomposition (SVD), Non-Negative Matrix Factorization (NNMF), etc.)
 * Network inference with [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/)
 * Network comparison through graphlets
+* [Drugs2ways](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1008464)
 
 ## External resources
 
