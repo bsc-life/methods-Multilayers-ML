@@ -14,6 +14,12 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
     * presentation: [18.11.2020](https://docs.google.com/presentation/d/1lE_FVOevaqxiKE5vQut1t2mMn7JIEF5Eox3JBpijbqw/edit?usp=sharing)
     * example: [Running GOPHER on MareNostrum](https://github.com/cirillodavide/gopher_usecase/blob/master/example_run.md)
 
+* **Network Enrichment Analysis Test (NEAT)** - Apply enrichment analysis with a network of reference
+    * paper: [Signorelli et al. 2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6)
+    * repository: [CRAN](https://cran.r-project.org/web/packages/neat/index.html)
+    * presentation: [18.11.2020](https://docs.google.com/presentation/d/14CN7aguiQFr8ac26FwVpLY43_uQFWt9fiMIGxOfc3c0/edit?usp=sharing)
+    * example: [Running NEAT](https://github.com/ikernunezca/neat_use_case)
+
 ## Suggestions
 
 *Methods that would be nice to be presented during our meetings*
