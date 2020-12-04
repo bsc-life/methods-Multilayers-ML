@@ -17,7 +17,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 * **Network Enrichment Analysis Test (NEAT)** - Apply enrichment analysis with a network of reference
     * paper: [Signorelli et al. 2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6)
     * repository: [CRAN](https://cran.r-project.org/web/packages/neat/index.html)
-    * presentation: [18.11.2020](https://docs.google.com/presentation/d/14CN7aguiQFr8ac26FwVpLY43_uQFWt9fiMIGxOfc3c0/edit?usp=sharing)
+    * presentation: [2.12.2020](https://docs.google.com/presentation/d/14CN7aguiQFr8ac26FwVpLY43_uQFWt9fiMIGxOfc3c0/edit?usp=sharing)
     * example: [Running NEAT](https://github.com/ikernunezca/neat_use_case)
 
 ## Suggestions
