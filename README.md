@@ -33,6 +33,10 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 
 ## External resources
 
+### General and didactic platforms
+
+* [Stateoftheart AI](https://www.stateoftheart.ai/)
+
 ### Deep learning frameworks tutorials
 * [Keras](https://keras.io/guides/)
 * [Pytorch](https://pytorch.org/tutorials/)
