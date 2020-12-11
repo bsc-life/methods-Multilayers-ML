@@ -30,6 +30,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 * Network inference with [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/)
 * Network comparison through graphlets
 * [Drugs2ways](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1008464)
+* [Persistence Homology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0179-3)
 
 ## External resources
 
