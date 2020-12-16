@@ -27,10 +27,13 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 * [Similarity Network Fusion (SNF)](http://compbio.cs.toronto.edu/SNF/SNF/Software.html)
 * [Random Walk with Restart (RWR) in multilayer networks](https://academic.oup.com/bioinformatics/article/35/3/497/5055408)
 * Matrix factorization methods (Singular Value decomposition (SVD), Non-Negative Matrix Factorization (NNMF), etc.)
-* Network inference with [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/)
-* Network comparison through graphlets
+* [COSIFER](https://sysbio.uk-south.containers.mybluemix.net/cosifer/) - network inference
+* [Graphlets in multilayer networks](https://www.nature.com/articles/s41598-020-57609-3)
 * [Drugs2ways](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1008464)
-* [Persistence Homology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0179-3)
+* [Persistence Homology](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0179-3) - recommended tool: [Ripser](https://pypi.org/project/ripser/)
+* [ROMA](https://pubmed.ncbi.nlm.nih.gov/26925094/) - gene activity quantification
+* [Datashader](https://datashader.org/) - big data visualization
+* [MCL](https://micans.org/mcl/) - Markov cluster algorithm
 
 ## External resources
 
