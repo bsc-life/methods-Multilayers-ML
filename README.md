@@ -19,6 +19,12 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
     * repository: [CRAN](https://cran.r-project.org/web/packages/neat/index.html)
     * presentation: [2.12.2020](https://docs.google.com/presentation/d/14CN7aguiQFr8ac26FwVpLY43_uQFWt9fiMIGxOfc3c0/edit?usp=sharing)
     * example: [Running NEAT](https://github.com/ikernunezca/neat_use_case)
+    
+ * **Extreme Model Exploration With Swift (EMEWS)** - Model exploration framework for HPC facilities
+    * paper: [Ozik et al. 2017](https://pubmed.ncbi.nlm.nih.gov/30577742/)
+    * repository: [GIT](https://emews.github.io/)
+    * presentation: [14.12.2020](https://docs.google.com/presentation/d/1yk4PQNwwn5f8I3z-FnKmWgSWW46aTufCv3NdLzI01sQ/edit#slide=id.p1)
+    * example: [Improving Hit-and-Run on a tumour simulation](https://github.com/JaninaSchreiber/TNF)
 
 ## Suggestions
 
