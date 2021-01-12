@@ -25,6 +25,12 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
     * repository: [GIT](https://emews.github.io/)
     * presentation: [14.12.2020](https://docs.google.com/presentation/d/1yk4PQNwwn5f8I3z-FnKmWgSWW46aTufCv3NdLzI01sQ/edit?usp=sharing)
     * example: [Improving Hit-and-Run on a tumour simulation](https://github.com/JaninaSchreiber/TNF)
+    
+* **Similarity Network Fusion (SNF)** - Integrate multiple data types on the basis of similarity between biological samples
+    * paper: [B Wang et al. 2014](https://www.nature.com/articles/nmeth.2810)
+    * repository: [CRAN](https://cran.r-project.org/web/packages/SNFtool/index.html)
+    * presentation: [16.12.2020](https://docs.google.com/presentation/d/1SFAcIR80CjCzDCMnfUXeAMDKXCCdevSqDtsB3JZX03s/edit?usp=sharing)
+    * example: [Running SNF](https://github.com/nuria17/COPDHeterogeneity/tree/master/SNF)
 
 ## Suggestions
 
