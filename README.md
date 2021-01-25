@@ -4,6 +4,22 @@ A curated list of awesome places to learn and practice machine learning and grap
 
 Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/teams/sg2-multilayers-ml-methods/discussions/1) when preparing your presentation.
 
+## Meetings calendar
+
+*Scheduled presentations. In case of changes, please update and notify valenciaslab@bsc.es*
+
+| Date  | Presenter |
+| ------------- | ------------- |
+|18.11.2020 | Davide Cirillo |
+|02.12.2020 | Iker Núñez |
+|16.12.2020 | Núria Olvera |
+|27.01.2021 | Hugo Bronchalo |
+|10.02.2021 | François Serra |
+|24.01.2021 | Carlos Madariaga |
+|10.03.2021 | Alejandro Tejada |
+|24.03.2021 | Davide Cirillo |
+|  |  |
+
 ## Methods
 
 *Implementations and presentations of machine learning and graph-based methods*
