@@ -13,12 +13,12 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 |18.11.2020 | Davide Cirillo |
 |02.12.2020 | Iker Núñez |
 |16.12.2020 | Núria Olvera |
-|27.01.2021 | Hugo Bronchalo |
-|10.02.2021 | François Serra |
-|24.01.2021 | Carlos Madariaga |
-|10.03.2021 | Alejandro Tejada |
-|24.03.2021 | Davide Cirillo |
-|  |  |
+|29.01.2021 | open discussion |
+|10.02.2021 | Hugo Bronchalo |
+|24.01.2021 | François Serra |
+|10.03.2021 | Carlos Madariaga |
+|24.03.2021 | Alejandro Tejada |
+|07.04.2021 | Davide Cirillo |
 
 ## Methods
 
