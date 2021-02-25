@@ -14,7 +14,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 |02.12.2020 | Iker Núñez |
 |16.12.2020 | Núria Olvera |
 |29.01.2021 | open discussion |
-|24.01.2021 | Hugo Bronchalo |
+|24.02.2021 | Hugo Bronchalo |
 |10.03.2021 | François Serra |
 |24.03.2021 | Carlos Madariaga |
 |07.04.2021 | Alejandro Tejada |
@@ -48,6 +48,13 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
     * presentation: [16.12.2020](https://docs.google.com/presentation/d/1SFAcIR80CjCzDCMnfUXeAMDKXCCdevSqDtsB3JZX03s/edit?usp=sharing)
     * example: [Running SNF](https://github.com/nuria17/COPDHeterogeneity/tree/master/SNF)
 
+* **SUPPA2** - Fast, accurate, and uncertainty-aware differential splicing analysis across multiple conditions
+    * paper: [Trincado et al. 2018](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1417-1)
+    * repository (SUPPA2): [GIT](https://github.com/comprna/SUPPA)
+    * repository (Salmon): [GIT](https://github.com/COMBINE-lab/salmon/blob/master/doc/source/salmon.rst)
+    * presentation: [24.02.2021](https://docs.google.com/presentation/d/1Xqm46Mj0CMc07TPTViqN3RhSHa9zJsNWYayK2P9nkSU/edit#slide=id.gc093395255_0_0)
+    * example: [Running SUPPA2](https://github.com/vollutto/Scripts-SUPPA)
+  
 ## Suggestions
 
 *Methods that would be nice to be presented during our meetings*
