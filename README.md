@@ -50,8 +50,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 
 * **SUPPA2** - Fast, accurate, and uncertainty-aware differential splicing analysis across multiple conditions
     * paper: [Trincado et al. 2018](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1417-1)
-    * repository (SUPPA2): [GIT](https://github.com/comprna/SUPPA)
-    * repository (Salmon): [GIT](https://github.com/COMBINE-lab/salmon/blob/master/doc/source/salmon.rst)
+    * repository: [GIT SUPPA2](https://github.com/comprna/SUPPA) [GIT Salmon](https://github.com/COMBINE-lab/salmon/blob/master/doc/source/salmon.rst)
     * presentation: [24.02.2021](https://docs.google.com/presentation/d/1Xqm46Mj0CMc07TPTViqN3RhSHa9zJsNWYayK2P9nkSU/edit#slide=id.gc093395255_0_0)
     * example: [Running SUPPA2](https://github.com/vollutto/Scripts-SUPPA)
   
