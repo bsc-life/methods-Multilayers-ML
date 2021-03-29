@@ -71,6 +71,16 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 
 ## External resources
 
+### Network visualization tools and libraries
+
+* [igraph](https://igraph.org/)
+* [networkx](https://networkx.org/)
+* [graph-tool](https://graph-tool.skewed.de/)
+* [Gephi](https://gephi.org/)
+* [tmap](https://tmap.gdb.tools/)
+* [graphlayous](https://github.com/schochastics/graphlayouts)
+* [CatbNet](https://github.com/LBBSoft/CatbNet)
+
 ### General and didactic platforms
 
 * [Stateoftheart AI](https://www.stateoftheart.ai/)
