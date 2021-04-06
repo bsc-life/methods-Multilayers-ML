@@ -16,9 +16,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 |29.01.2021 | open discussion |
 |24.02.2021 | Hugo Bronchalo |
 |10.03.2021 | [François Serra](presentations/unsupervised-clustering-1o1) |
-|24.03.2021 | Carlos Madariaga |
-|07.04.2021 | Alejandro Tejada |
-|21.04.2021 | Davide Cirillo |
+|07.04.2021 | Davide Cirillo |
 
 ## Methods
 
