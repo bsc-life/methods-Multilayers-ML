@@ -78,6 +78,7 @@ Please refer to the [contribution guidelines](https://github.com/orgs/bsc-life/t
 * [tmap](https://tmap.gdb.tools/)
 * [graphlayous](https://github.com/schochastics/graphlayouts)
 * [CatbNet](https://github.com/LBBSoft/CatbNet)
+* [BioFabric](http://www.biofabric.org/gallery/pages/SuperQuickBioFabric.html)
 
 ### General and didactic platforms
 
